@@ -1,0 +1,1 @@
+include ':app', ':sdrecyclerdapter', ':poc_mmvm', ':truecaller_poc'

@@ -1,0 +1,43 @@
+======When frag 2 replaces frag 1==========     frag 2 and frag 1 are not a dialog
+frag 1 : onCreate
+frag 1 : onStart
+frag 1 : onResume
+frag 2 : onCreate
+frag 1 : onPause
+frag 1 : onStop
+frag 1 : onDestroy
+frag 2 : onStart
+frag 2 : onResume
+
+======When frag 2 adds on to frag 1========    frag 2 and frag 1 are not a dialog
+frag 1 : onCreate
+frag 1 : onStart
+frag 1 : onResume
+frag 2 : onCreate
+frag 2 : onStart
+frag 2 : onResume
+
+======When frag 2 replaces frag 1==========     frag 2 and frag 1 are dialog
+frag 1 : onCreate
+frag 1 : onStart
+frag 1 : onResume
+frag 2 : onCreate
+frag 1 : onPause
+frag 1 : onStop
+frag 1 : onDestroy
+frag 2 : onStart
+frag 2 : onResume
+
+======When frag 2 adds on frag 1==========     frag 2 and frag 1 are dialog
+frag 1 : onCreate
+frag 1 : onStart
+frag 1 : onResume
+frag 2 : onCreate
+frag 2 : onStart
+frag 2 : onResume
+
+
+
+
+
+

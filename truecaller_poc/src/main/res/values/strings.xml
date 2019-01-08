@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">truecaller_poc</string>
+    <!--TC: Step: 2-->
+    <string name="partnerKey">QgeYw9d2d24fea1de4d74acd34651bb8214bc</string>
+</resources>
